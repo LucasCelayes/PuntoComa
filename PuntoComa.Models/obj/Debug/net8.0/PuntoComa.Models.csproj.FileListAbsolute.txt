@@ -1,0 +1,11 @@
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\bin\Debug\net8.0\PuntoComa.Models.deps.json
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\bin\Debug\net8.0\PuntoComa.Models.dll
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\bin\Debug\net8.0\PuntoComa.Models.pdb
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\PuntoComa.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\PuntoComa.Models.AssemblyInfoInputs.cache
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\PuntoComa.Models.AssemblyInfo.cs
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\PuntoComa.Models.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\PuntoComa.Models.dll
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\refint\PuntoComa.Models.dll
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\PuntoComa.Models.pdb
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\ref\PuntoComa.Models.dll

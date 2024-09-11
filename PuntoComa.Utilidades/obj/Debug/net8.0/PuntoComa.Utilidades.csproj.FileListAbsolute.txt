@@ -1,0 +1,11 @@
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Utilidades\bin\Debug\net8.0\PuntoComa.Utilidades.deps.json
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Utilidades\bin\Debug\net8.0\PuntoComa.Utilidades.dll
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Utilidades\bin\Debug\net8.0\PuntoComa.Utilidades.pdb
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Utilidades\obj\Debug\net8.0\PuntoComa.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Utilidades\obj\Debug\net8.0\PuntoComa.Utilidades.AssemblyInfoInputs.cache
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Utilidades\obj\Debug\net8.0\PuntoComa.Utilidades.AssemblyInfo.cs
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Utilidades\obj\Debug\net8.0\PuntoComa.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Utilidades\obj\Debug\net8.0\PuntoComa.Utilidades.dll
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Utilidades\obj\Debug\net8.0\refint\PuntoComa.Utilidades.dll
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Utilidades\obj\Debug\net8.0\PuntoComa.Utilidades.pdb
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Utilidades\obj\Debug\net8.0\ref\PuntoComa.Utilidades.dll
