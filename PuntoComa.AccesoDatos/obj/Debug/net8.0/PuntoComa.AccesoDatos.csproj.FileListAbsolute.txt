@@ -17,3 +17,4 @@ C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.AccesoDatos\obj\Debug\net8
 C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.AccesoDatos\obj\Debug\net8.0\PuntoComa.AccesoDatos.pdb
 C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.AccesoDatos\obj\Debug\net8.0\PuntoComa.AccesoDatos.genruntimeconfig.cache
 C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.AccesoDatos\obj\Debug\net8.0\ref\PuntoComa.AccesoDatos.dll
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.AccesoDatos\obj\Debug\net8.0\PuntoComa.AccesoDatos.sourcelink.json

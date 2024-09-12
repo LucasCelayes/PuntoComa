@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|c:\\users\\fabia\\desktop\\cursoudemy\\puntocoma\\puntocoma\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|solutionrelative:puntocoma\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|c:\\users\\fabia\\desktop\\cursoudemy\\puntocoma\\puntocoma\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|solutionrelative:puntocoma\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|c:\\users\\fabia\\desktop\\cursoudemy\\puntocoma\\puntocoma\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|solutionrelative:puntocoma\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|c:\\users\\fabia\\desktop\\cursoudemy\\puntocoma\\puntocoma\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|solutionrelative:puntocoma\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|c:\\users\\fabia\\desktop\\cursoudemy\\puntocoma\\puntocoma\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|solutionrelative:puntocoma\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|c:\\users\\fabia\\desktop\\cursoudemy\\puntocoma\\puntocoma\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|solutionrelative:puntocoma\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|c:\\users\\fabia\\desktop\\cursoudemy\\puntocoma\\puntocoma\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|solutionrelative:puntocoma\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|c:\\users\\fabia\\desktop\\cursoudemy\\puntocoma\\puntocoma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|solutionrelative:puntocoma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6DE9E9-04B1-42BB-A5ED-753AB679A2C1}|PuntoComa.Models\\PuntoComa.Models.csproj|c:\\users\\fabia\\desktop\\cursoudemy\\puntocoma\\puntocoma.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6DE9E9-04B1-42BB-A5ED-753AB679A2C1}|PuntoComa.Models\\PuntoComa.Models.csproj|solutionrelative:puntocoma.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|c:\\users\\fabia\\desktop\\cursoudemy\\puntocoma\\puntocoma\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3515AF-9D8F-4330-ADA4-9ED1062CAF35}|PuntoComa\\PuntoComa.csproj|solutionrelative:puntocoma\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,22 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "RelativeDocumentMoniker": "PuntoComa\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "ToolTip": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "RelativeToolTip": "PuntoComa\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T21:37:14.715Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -57,66 +43,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PuntoComa\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PuntoComa\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAswE4AAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T21:23:18.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "categoria.js",
-              "DocumentMoniker": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\wwwroot\\js\\categoria.js",
-              "RelativeDocumentMoniker": "PuntoComa\\wwwroot\\js\\categoria.js",
-              "ToolTip": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\wwwroot\\js\\categoria.js",
-              "RelativeToolTip": "PuntoComa\\wwwroot\\js\\categoria.js",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAgwD4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-11T00:22:08.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
               "RelativeDocumentMoniker": "PuntoComa\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
               "ToolTip": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
               "RelativeToolTip": "PuntoComa\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T01:09:57.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_VistaCrearVolver.cshtml",
-              "DocumentMoniker": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Views\\Shared\\_VistaCrearVolver.cshtml",
-              "RelativeDocumentMoniker": "PuntoComa\\Views\\Shared\\_VistaCrearVolver.cshtml",
-              "ToolTip": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Views\\Shared\\_VistaCrearVolver.cshtml",
-              "RelativeToolTip": "PuntoComa\\Views\\Shared\\_VistaCrearVolver.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T22:50:19.212Z",
+              "WhenOpened": "2024-09-12T23:10:25.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PuntoComa\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PuntoComa\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T23:09:13.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "PuntoComa\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "PuntoComa\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T23:04:24.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Program.cs",
+              "RelativeDocumentMoniker": "PuntoComa\\Program.cs",
+              "ToolTip": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Program.cs",
+              "RelativeToolTip": "PuntoComa\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:03:50.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Areas\\Admin\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "PuntoComa\\Areas\\Admin\\Controllers\\CategoriasController.cs",
               "ToolTip": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\Areas\\Admin\\Controllers\\CategoriasController.cs",
               "RelativeToolTip": "PuntoComa\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAywFcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T20:44:14.3Z",
+              "WhenOpened": "2024-09-12T22:57:02.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa.Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "PuntoComa.Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa.Models\\Categoria.cs",
+              "RelativeToolTip": "PuntoComa.Models\\Categoria.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:56:30.033Z",
               "EditorCaption": ""
             }
           ]

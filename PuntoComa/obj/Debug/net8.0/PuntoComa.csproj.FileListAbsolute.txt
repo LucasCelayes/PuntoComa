@@ -266,3 +266,4 @@ C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa\bin\Debug\net8.0\PuntoComa
 C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa\bin\Debug\net8.0\PuntoComa.AccesoDatos.pdb
 C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa\bin\Debug\net8.0\PuntoComa.Models.pdb
 C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa\bin\Debug\net8.0\PuntoComa.Utilidades.pdb
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa\obj\Debug\net8.0\PuntoComa.sourcelink.json
