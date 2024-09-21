@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\wwwroot\\js\\articulos.js",
+      "PackagePath": "staticwebassets\\js\\articulos.js"
+    },
+    {
       "Id": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\wwwroot\\js\\categoria.js",
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },

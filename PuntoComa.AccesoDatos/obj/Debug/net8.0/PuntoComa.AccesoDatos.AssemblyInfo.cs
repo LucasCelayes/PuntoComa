@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PuntoComa.AccesoDatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d50f3c35223f299d89c47da045870970e384db91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e454252413225ded86731ff6c57d0c41cf65f4af")]
 [assembly: System.Reflection.AssemblyProductAttribute("PuntoComa.AccesoDatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PuntoComa.AccesoDatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

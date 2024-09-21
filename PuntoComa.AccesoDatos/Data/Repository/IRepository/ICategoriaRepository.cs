@@ -1,4 +1,5 @@
-﻿using PuntoComa.Models;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using PuntoComa.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,5 +11,6 @@ namespace PuntoComa.AccesoDatos.Data.Repository.IRepository
     public interface ICategoriaRepository : IRepository<Categoria>
     {
         void Update(Categoria categoria);
+        IEnumerable<SelectListItem> GetListaCategorias();
     }
 }

@@ -10,6 +10,7 @@ namespace PuntoComa.AccesoDatos.Data.Repository.IRepository
     {
         // aqui se deben de ir agregando los diferentes repositorios
         ICategoriaRepository Categoria { get; }
+        IArticuloRepository Articulo { get; }
 
         void save();
     }

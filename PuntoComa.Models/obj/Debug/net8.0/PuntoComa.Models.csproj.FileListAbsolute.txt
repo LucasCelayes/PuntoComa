@@ -10,3 +10,4 @@ C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\re
 C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\PuntoComa.Models.pdb
 C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\ref\PuntoComa.Models.dll
 C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\PuntoComa.Models.sourcelink.json
+C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa.Models\obj\Debug\net8.0\PuntoComa.Models.csproj.AssemblyReference.cache

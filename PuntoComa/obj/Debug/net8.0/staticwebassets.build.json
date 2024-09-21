@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "519AqHxmWCERsvt4uX15tA238fMZgH8SbJQRT5G4Cg0=",
+  "Hash": "RFow1QNBLfY3gs+dvfuMFpL7oZmXbjyQw1HZCPqzRm8=",
   "Source": "PuntoComa",
   "BasePath": "_content/PuntoComa",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\wwwroot\\js\\articulos.js",
+      "SourceId": "PuntoComa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\wwwroot\\",
+      "BasePath": "_content/PuntoComa",
+      "RelativePath": "js/articulos.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\articulos.js"
     },
     {
       "Identity": "C:\\Users\\fabia\\Desktop\\CursoUdemy\\PuntoComa\\PuntoComa\\wwwroot\\js\\categoria.js",

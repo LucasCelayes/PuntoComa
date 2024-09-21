@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\fabia\Desktop\CursoUdemy\PuntoComa\PuntoComa
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/fabia/Desktop/CursoUdemy/PuntoComa/PuntoComa/Areas/Admin/Views/Articulos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWN1bG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabia/Desktop/CursoUdemy/PuntoComa/PuntoComa/Areas/Admin/Views/Articulos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWN1bG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/fabia/Desktop/CursoUdemy/PuntoComa/PuntoComa/Areas/Admin/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
